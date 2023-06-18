@@ -1,1 +1,1 @@
-# ocnc2023
+# Differential Equations and Numerical Methods (OCNC2023)
